@@ -1,0 +1,1 @@
+The Calories Calculator is a tool designed to help users estimate their daily caloric needs based on their personal information and activity levels. Whether you’re looking to lose, gain, or maintain weight, this calculator provides tailored recommendations to guide you toward your goals.
